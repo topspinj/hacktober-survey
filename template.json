@@ -4,7 +4,7 @@
     "country": "country of residence",
     "favLanguage": ["put fav languages here", "up to 3"],
     "age": {
-        "under 20": "0 add 1 beside category that applies to you",
+        "under 20": "0 --- add 1 beside category that applies to you",
         "20-24": "0",
         "25-29": "1",
         "30-34": "0",
