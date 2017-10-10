@@ -2,7 +2,7 @@
     "gender": "f",
     "city": "Vancouver",
     "country": "Canada",
-    "favLanguage": ["python"],
+    "favLanguage": ["python", "javascript"],
     "age": {
         "under 20": "0",
         "20-24": "0",
