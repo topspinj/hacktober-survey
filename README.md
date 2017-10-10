@@ -1,4 +1,4 @@
-# Favourite languages hacktober project
+# Favourite languages: a hacktober project
 
 In honour of Hacktober, I am doing a collaborative project that looks at everyone's favourite languages from around the world. 
 
