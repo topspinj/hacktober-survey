@@ -3,6 +3,7 @@
     "city": "put city of residence here",
     "country": "country of residence",
     "favLanguage": "put fav language here",
+    "nativeLanguage": "eg English",
     "age": {
         "under 20": "0 --- add 1 beside category that applies to you",
         "20-24": "0",
