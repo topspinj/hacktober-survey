@@ -1,0 +1,20 @@
+{
+    "gender": "put gender here - either m or f or na",
+    "city": "put city of residence here",
+    "country": "country of residence",
+    "favLanguage": ["put fav languages here", "up to 3"],
+    "age": {
+        "under 20": "0 add 1 beside category that applies to you",
+        "20-24": "0",
+        "25-29": "1",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "number of years programming - eg 2",
+        "months": "months - eg 10 (must be smaller than 12"
+    }
+}
