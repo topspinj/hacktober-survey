@@ -1,0 +1,21 @@
+{
+    "gender": "m",
+    "city": "Los Angeles",
+    "country": "USA",
+    "favLanguage": "Go",
+    "nativeLanguage":"English",
+    "age": {
+        "under 20": "0",
+        "20-24": "0",
+        "25-29": "0",
+        "30-34": "1",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "2",
+        "months": "0"
+    }
+}
