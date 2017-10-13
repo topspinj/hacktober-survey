@@ -1,0 +1,21 @@
+{
+    "gender": "m",
+    "city": "Bhubaneswar",
+    "country": "India",
+    "favLanguage": "Java",
+    "nativeLanguage": "Bengali",
+    "age": {
+        "under 20": "1",
+        "20-24": "0",
+        "25-29": "0",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "4",
+        "months": "3"
+    }
+}
