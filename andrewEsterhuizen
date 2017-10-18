@@ -1,0 +1,21 @@
+{
+    "gender": "m",
+    "city": "Glasgow",
+    "country": "United Kingdom",
+    "favLanguage": "Javascript",
+    "nativeLanguage": "English",
+    "age": {
+        "under 20": "0",
+        "20-24": "0",
+        "25-29": "1",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "0",
+        "months": "6"
+    }
+}
