@@ -1,0 +1,21 @@
+{
+    "gender": "m",
+    "city": "Columbus",
+    "country": "USA",
+    "favLanguage": "Ruby",
+    "nativeLanguage": "eg English",
+    "age": {
+        "under 20": "0 --- add 1 beside category that applies to you",
+        "20-24": "0",
+        "25-29": "0",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "1",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "15",
+        "months": "7 months"
+    }
+}
