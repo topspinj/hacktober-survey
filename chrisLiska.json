@@ -1,0 +1,20 @@
+{
+    "gender": "m",
+    "city": "Vienna",
+    "country": "Austria",
+    "favLanguage": "java",
+    "nativeLanguage": "german",
+    "age": {
+        "under 20": "0 --- add 1 beside category that applies to you",
+        "20-24": "0",
+        "25-29": "0",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "1"
+    },
+    "programmingExperience": {
+        "years": "33",
+        "months": "1"
+    }
