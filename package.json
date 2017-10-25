@@ -1,0 +1,27 @@
+{
+  "name": "fav-languages",
+  "version": "1.0.0",
+  "description": "fav-languages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/topspinj/fav-languages.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/topspinj/fav-languages/issues"
+  },
+  "homepage": "https://github.com/topspinj/fav-languages#readme",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-merge-json": "^1.2.0"
+  },
+  "devDependencies": {
+    "gulp-jsoncombine": "^1.0.3"
+  }
+}
