@@ -3,6 +3,7 @@
     "city": "Seattle",
     "country": "USA",
     "favLanguage": "Javascript - NodeJS",
+    "nativeLanguage": "English",
     "age": {
         "under 20": "0",
         "20-24": "1",
