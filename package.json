@@ -19,9 +19,9 @@
   "homepage": "https://github.com/topspinj/fav-languages#readme",
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-merge-json": "^1.2.0"
+    "gulp-jsoncombine-array": "^1.0.0"
   },
   "devDependencies": {
-    "gulp-jsoncombine": "^1.0.3"
+    "gulp-convert": "^0.2.0"
   }
 }
