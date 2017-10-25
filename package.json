@@ -22,6 +22,9 @@
     "gulp-jsoncombine-array": "^1.0.0"
   },
   "devDependencies": {
-    "gulp-convert": "^0.2.0"
+    "gulp-convert": "^0.2.0",
+    "gulp-flatten-json": "^0.1.0",
+    "gulp-util": "^3.0.8",
+    "json-mapper-json": "^1.1.0"
   }
 }
