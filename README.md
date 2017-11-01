@@ -9,3 +9,7 @@ Once enough data is collected, I'll share visualizations of the data with you al
 # Installing Dependencies
 
 > npm install
+
+# Generating the CSV file
+
+> npm start
