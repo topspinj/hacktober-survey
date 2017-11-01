@@ -1,4 +1,4 @@
-age, country, city, favLang, spokenLang, tbd, tbd
+gender, city, country, favLang, spokenLang, tbd, tbd
 m,New Delhi,India,swift,hindi,[object Object],[object Object]
 m,London,England,Ruby,English,[object Object],[object Object]
 m,Dhaka,Bangladesh,JavaScript,Bangla,[object Object],[object Object]
