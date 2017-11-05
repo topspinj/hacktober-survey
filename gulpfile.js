@@ -11,13 +11,4 @@ gulp.task("GenerateJSON", function(){
     .pipe(gulp.dest("./dist"));
 });
 
-gulp.task("GenerateCSV", ["GenerateJSON"], function(){
-    return gulp.src(['dist/combinedArray.json'])
-        .pipe(convert({
-            from: 'json',
-            to: 'csv'
-        }))
-        .pipe(gulp.dest('dist/csv/'));
-});
-
-gulp.task("default", ["GenerateCSV"]);
+gulp.task("default", ["GenerateJSON"]);
