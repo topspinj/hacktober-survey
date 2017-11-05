@@ -101,7 +101,7 @@
 }, {
     "gender": "m",
     "city": "Espoo",
-    "country": "Helsinki",
+    "country": "Finland",
     "favLanguage": "Javascript",
     "nativeLanguage": "Nepali",
     "age": {
@@ -141,7 +141,7 @@
 }, {
     "gender": "m",
     "city": "Glasgow",
-    "country": "United Kingdom",
+    "country": "Scotland",
     "favLanguage": "Javascript",
     "nativeLanguage": "English",
     "age": {
@@ -461,7 +461,7 @@
 }, {
     "gender": "m",
     "city": "London",
-    "country": "United Kingdom",
+    "country": "England",
     "favLanguage": "Python",
     "nativeLanguage": "Arabic",
     "age": {
@@ -521,7 +521,7 @@
 }, {
     "gender": "m",
     "city": "Hortolândia",
-    "country": "São Paulo",
+    "country": "Brazil",
     "favLanguage": "PHP",
     "nativeLanguage": "Brazilian Portuguese",
     "age": {
@@ -760,7 +760,7 @@
 }, {
     "gender": "m",
     "city": "London",
-    "country": "UK",
+    "country": "England",
     "favLanguage": "Ruby",
     "nativeLanguage": "English",
     "age": {
