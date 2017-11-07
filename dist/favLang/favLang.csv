@@ -1,0 +1,64 @@
+,city,country,favLanguage,gender,nativeLanguage
+0,New Delhi,India,swift,m,Hindi
+1,London,United Kingdom,Ruby,m,English
+2,Dhaka,Bangladesh,JavaScript,m,Bangla
+3,Vancouver,Canada,python,f,English
+4,"Nanded, Pune",India,JavaScript,m,Hindi
+5,Espoo,Finland,JavaScript,m,Nepali
+6,Worcester,USA,Go,na,English
+7,Glasgow,United Kingdom,JavaScript,m,English
+8,Bhubaneswar,India,Java,m,Bengali
+9,Bengaluru,India,C#,m,Malayalam
+10,New Delhi,India,Python,m,Hindi
+11,Chennai,India,Java,m,Tamil
+12,Allahabad,India,Python,m,Hindi
+13,Pune,India,JavaScript,m,Marathi
+14,Dublin,USA,JavaScript,m,English
+15,Seattle,USA,JavaScript,m,English
+16,Burlington,Canada,Rust,m,English
+17,Vienna,Austria,Java,m,German
+18,Putnam Valley,USA,JavaScript,m,English
+19,Bhopal,India,Java,m,Hindi
+20,Columbus,USA,Ruby,m,English
+21,Granada,Spain,JavaScript,m,Spanish
+22,Split,Croatia,PHP,m,croatian
+23,London,United Kingdom,Python,m,Arabic
+24,Parnaíba,Brazil,C++,m,Portuguese
+25,Bursa,Turkey,C++,m,Turkish
+26,Hortolândia,Brazil,PHP,m,Brazilian Portuguese
+27,Vadodara,India,JavaScript,m,Hindi
+28,San Vicente,El Salvador,JavaScript,m,Spanish
+29,Yogyakarta,Indonesia,JavaScript,m,Indonesia
+30,Bengaluru,India,C,f,English
+31,Colombo,Sri Lanka,Java,m,Sinhala
+32,Wroclaw,Poland,Java,m,Polish
+33,Portland,USA,C++,f,English
+34,Vancouver,Canada,python,f,English
+35,Amsterdam,Netherlands,Java,f,Danish
+36,Mexico City,Mexico,Kotlin,m,Spanish
+37,Baton Rouge,USA,C++,na,English
+38,London,United Kingdom,Ruby,m,English
+39,Nittambuwa,Sri Lanka,PHP,m,Sinhala
+40,New York,USA,C,m,English
+41,Zagreb,Croatia,Java,f,Croatian
+42,Brasília,Brazil,JavaScript,m,Brazilian Portuguese
+43,Munich,Germany,swift,f,Albanian
+44,Montreal,Canada,JavaScript,m,French
+45,Los Angeles,USA,bash,m,English
+46,Toronto,Canada,python,m,English
+47,Los Angeles,USA,Go,m,English
+48,Bonn,Germany,python,m,German
+49,Weligama,Sri Lanka,Java,m,Tamil
+50,Stord,Norway,Python,m,Norwegian
+51,Waterloo,USA,Python,m,English
+52,Anuradhapura,Sri Lanka,Actionscript,m,Sinhala
+53,Ghaziabad,India,python,m,Hindi
+54,Parnaíba,Brazil,Python,m,Portuguese
+55,Vancouver,Canada,Python,m,English
+56,Colombo,Sri Lanka,JavaScript,m,Sinhala
+57,Kochi ,India,swift,m,Hindi
+58,Edwardsville,USA,python,f,English
+59,Shinjuku,Japan,Python,f,English
+60,Saint Petersburg,Russian Federation,Python,m,Russian
+61,Mumbai,India,Python,m,Hindi
+62,Irvine,USA,Python,f,English
