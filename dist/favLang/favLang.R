@@ -21,10 +21,10 @@ favLangMap <- left_join(map, favLangFreq, by="iso3")
 
 # create a map
 favLangMap <- ggplot(favLangMap) +
-  geom_polygon(aes(x = long, y = lat, group = group, fill = frequency), size=0.2, color="white") +
+  geom_polygon(aes(x = long, y = lat, group = group, fill = frequency), size=0.2, color="grey50") +
   ylab("latitude") +
   xlab("longitude") +
-  scale_fill_distiller(palette="BuPu", na.value="grey50") +
+  scale_fill_distiller(palette="Blues", na.value="white") +
   ggtitle("Contributors by Country of Origin") +
   theme_minimal() +
   theme(panel.border = element_blank(),
