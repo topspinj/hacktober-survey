@@ -20,13 +20,17 @@ map$iso3 <- countrycode::countrycode(map$region, 'country.name', 'iso3c')
 favLangMap <- left_join(map, favLangFreq, by="iso3")
 
 # create a map
-ggplot(favLangMap) +
-  geom_polygon(aes(x = long, y = lat, group = group, fill = frequency)) +
-  scale_fill_gradient(low="red", high="black") +
+favLangMap <- ggplot(favLangMap) +
+  geom_polygon(aes(x = long, y = lat, group = group, fill = frequency), size=0.2, color="white") +
   ylab("latitude") +
   xlab("longitude") +
+  scale_fill_distiller(palette="BuPu", na.value="grey50") +
   ggtitle("Contributors by Country of Origin") +
-  theme_minimal()
-
+  theme_minimal() +
+  theme(panel.border = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+favLangMap
+ggsave("fav_lang.pdf", favLangMap)
 
 
