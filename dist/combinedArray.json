@@ -1,1259 +1,695 @@
-[{
-    "gender": "m",
-    "city": "New Delhi",
-    "country": "India",
-    "favLanguage": "swift",
-    "nativeLanguage": "hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+[
+  {
+    "id": "1",
     "city": "London",
     "country": "England",
     "favLanguage": "Ruby",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "1",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "4"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "30-34",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "4"
+  },
+  {
+    "id": "2",
+    "city": "New Delhi",
+    "country": "India",
+    "favLanguage": "swift",
+    "gender": "m",
+    "nativeLanguage": "hindi",
+    "age": "under 20",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "3",
     "city": "Dhaka",
     "country": "Bangladesh",
     "favLanguage": "JavaScript",
+    "gender": "m",
     "nativeLanguage": "Bangla",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "6"
-    }
-}, {
-    "gender": "f",
+    "age": "20-24",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "4",
     "city": "Vancouver",
     "country": "Canada",
     "favLanguage": "python",
+    "gender": "f",
     "nativeLanguage": "english",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+    "age": "25-29",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "5",
     "city": "Nanded, Pune",
     "country": "India",
     "favLanguage": "Javascript",
-    "nativeLanguage": "Hindi",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "0",
-        "months": "4"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Hindi",
+    "age": "20-24",
+    "programmingExperienceYears": "0",
+    "programmingExperienceMonths": "4"
+  },
+  {
+    "id": "6",
     "city": "Espoo",
     "country": "Finland",
     "favLanguage": "Javascript",
+    "gender": "m",
     "nativeLanguage": "Nepali",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "2"
-    }
-}, {
-    "gender": "na",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "7",
     "city": "Worcester",
     "country": "United States",
     "favLanguage": "Go",
+    "gender": "na",
     "nativeLanguage": "English",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+    "age": "under 20",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "8",
     "city": "Glasgow",
     "country": "Scotland",
     "favLanguage": "Javascript",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "0",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "0",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "9",
     "city": "Bhubaneswar",
     "country": "India",
     "favLanguage": "Java",
-    "nativeLanguage": "Bengali",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "3"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Bengali",
+    "age": "under 20",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "3"
+  },
+  {
+    "id": "10",
     "city": "Bengaluru",
     "country": "India",
     "favLanguage": "C#",
-    "nativeLanguage": "Malayalam",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Malayalam",
+    "age": "20-24",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "11",
     "city": "New Delhi",
     "country": "India",
     "favLanguage": "Python",
-    "nativeLanguage": "Hindi",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Hindi",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "12",
     "city": "Chennai",
     "country": "India",
     "favLanguage": "JAVA",
-    "nativeLanguage": "Tamil",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Tamil",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "13",
     "city": "Allahabad",
     "country": "India",
     "favLanguage": "Python",
-    "nativeLanguage": "hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "hindi",
+    "age": "under 20",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "14",
     "city": "Pune",
     "country": "India",
     "favLanguage": "JavaScript",
-    "nativeLanguage": "Marathi",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Marathi",
+    "age": "20-24",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "15",
     "city": "Dublin",
     "country": "United States",
     "favLanguage": "JS",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "20-24",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "16",
     "city": "Seattle",
     "country": "USA",
     "favLanguage": "Javascript - NodeJS",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "17",
     "city": "Burlington",
     "country": "Canada",
     "favLanguage": "Rust <rust-lang.org>",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "12",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "20-24",
+    "programmingExperienceYears": "12",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "18",
     "city": "Vienna",
     "country": "Austria",
     "favLanguage": "Java",
-    "nativeLanguage": "German",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "1"
-    },
-    "programmingExperience": {
-        "years": "33",
-        "months": "1"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "German",
+    "age": "50 and over",
+    "programmingExperienceYears": "33",
+    "programmingExperienceMonths": "1"
+  },
+  {
+    "id": "19",
     "city": "Putnam Valley",
     "country": "USA",
     "favLanguage": "Javascript",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "10"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "20",
     "city": "Bhopal",
     "country": "India",
     "favLanguage": "Java",
+    "gender": "m",
     "nativeLanguage": "Hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "2"
-    }
-}, {
-    "gender": "m",
-    "city": "Columbus",
-    "country": "USA",
-    "favLanguage": "Ruby",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "1",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "15",
-        "months": "7"
-    }
-}, {
-    "gender": "m",
+    "age": "under 20",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "21",
     "city": "Granada",
     "country": "Spain",
     "favLanguage": "ECMAScript 6",
-    "nativeLanguage": "Spanish",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "2"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Spanish",
+    "age": "25-29",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "22",
     "city": "Split",
     "country": "Croatia",
     "favLanguage": "PHP",
-    "nativeLanguage": "croatian",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "1",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "4"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "croatian",
+    "age": "35-39",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "4"
+  },
+  {
+    "id": "23",
+    "city": "Columbus",
+    "country": "USA",
+    "favLanguage": "Ruby",
+    "gender": "m",
+    "nativeLanguage": "English",
+    "age": "45-49",
+    "programmingExperienceYears": "15",
+    "programmingExperienceMonths": "7"
+  },
+  {
+    "id": "24",
     "city": "London",
     "country": "England",
     "favLanguage": "Python",
-    "nativeLanguage": "Arabic",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "6",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Arabic",
+    "age": "20-24",
+    "programmingExperienceYears": "6",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "25",
     "city": "Parnaíba",
     "country": "Brasil",
     "favLanguage": "C++",
-    "nativeLanguage": "Portuguese",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "2"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Portuguese",
+    "age": "20-24",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "26",
     "city": "Bursa",
     "country": "Turkey",
     "favLanguage": "C++",
-    "nativeLanguage": "turkish",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "3"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "turkish",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "3"
+  },
+  {
+    "id": "27",
     "city": "Hortolândia",
     "country": "Brazil",
     "favLanguage": "PHP",
-    "nativeLanguage": "Brazilian Portuguese",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Brazilian Portuguese",
+    "age": "20-24",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "28",
     "city": "Vadodara",
     "country": "India",
     "favLanguage": "JavaScript",
-    "nativeLanguage": "hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "hindi",
+    "age": "under 20",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "29",
     "city": "San Vicente",
     "country": "El Salvador",
     "favLanguage": "JavaScript",
-    "nativeLanguage": "Spanish",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Spanish",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "30",
     "city": "Yogyakarta",
     "country": "Indonesia",
     "favLanguage": "Javascript",
+    "gender": "m",
     "nativeLanguage": "Indonesia",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "4"
-    }
-}, {
-    "gender": "f",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "4"
+  },
+  {
+    "id": "31",
     "city": "Bengaluru",
     "country": "India",
     "favLanguage": "C",
+    "gender": "f",
     "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "11"
-    }
-}, {
-    "gender": "m",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "11"
+  },
+  {
+    "id": "32",
     "city": "Colombo",
     "country": "Sri Lanka",
     "favLanguage": "java",
-    "nativeLanguage": "Sinhala",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "8"
-    }
-}, {
     "gender": "m",
-    "city": "Wroclaw",
-    "country": "Poland",
-    "favLanguage": "Java",
-    "nativeLanguage": "Polish",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "6"
-    }
-}, {
-    "gender": "f",
+    "nativeLanguage": "Sinhala",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "8"
+  },
+  {
+    "id": "33",
     "city": "Portland",
     "country": "USA",
     "favLanguage": "C++",
-    "nativeLanguage": "English",
-    "age": {
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "8",
-        "months": "6"
-    }
-}, {
     "gender": "f",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "8",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "34",
+    "city": "Wroclaw",
+    "country": "Poland",
+    "favLanguage": "Java",
+    "gender": "m",
+    "nativeLanguage": "Polish",
+    "age": "under 20",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "35",
     "city": "Vancouver",
     "country": "Canada",
     "favLanguage": "python",
-    "nativeLanguage": "english",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
     "gender": "f",
+    "nativeLanguage": "english",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "36",
     "city": "Amsterdam",
     "country": "Netherland",
     "favLanguage": "Java",
+    "gender": "f",
     "nativeLanguage": "Danish",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "1"
-    }
-}, {
-    "gender": "m",
+    "age": "20-24",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "1"
+  },
+  {
+    "id": "37",
     "city": "Mexico City",
     "country": "Mexico",
     "favLanguage": "Kotlin",
+    "gender": "m",
     "nativeLanguage": "Spanish",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "9"
-    }
-}, {
-    "gender": "na",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "9"
+  },
+  {
+    "id": "38",
     "city": "Baton Rouge",
     "country": "United States",
     "favLanguage": "c++",
+    "gender": "na",
     "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+    "age": "20-24",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "39",
     "city": "London",
     "country": "England",
     "favLanguage": "Ruby",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "3"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "3"
+  },
+  {
+    "id": "40",
     "city": "Nittambuwa",
     "country": "Sri Lanka",
     "favLanguage": "PHP",
-    "nativeLanguage": "sinhala",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "sinhala",
+    "age": "20-24",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "41",
     "city": "New York",
     "country": "United States",
     "favLanguage": "C",
+    "gender": "m",
     "nativeLanguage": "english",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "6",
-        "months": "0"
-    }
-}, {
-    "gender": "f",
+    "age": "20-24",
+    "programmingExperienceYears": "6",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "42",
     "city": "Zagreb",
     "country": "Croatia",
     "favLanguage": "Java",
+    "gender": "f",
     "nativeLanguage": "Croatian",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+    "age": "25-29",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "43",
     "city": "Brasília",
     "country": "Brazil",
     "favLanguage": "javascript",
+    "gender": "m",
     "nativeLanguage": "brazilian portuguese",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "10"
-    }
-}, {
-    "gender": "f",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "44",
     "city": "Munich",
     "country": "Germany",
     "favLanguage": "swift",
+    "gender": "f",
     "nativeLanguage": "albanian",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "0"
-    }
-}, {
-    "gender": "m",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "45",
     "city": "Montreal",
     "country": "Canada",
     "favLanguage": "ES6",
-    "nativeLanguage": "French",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "10"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "French",
+    "age": "20-24",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "46",
     "city": "Los Angeles",
     "country": "USA",
     "favLanguage": "bash",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "1",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "47",
     "city": "Toronto",
     "country": "Canada",
     "favLanguage": "python",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "1",
-        "months": "2"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "1",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "48",
     "city": "Los Angeles",
     "country": "USA",
     "favLanguage": "Go",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "1",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "30-34",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "49",
     "city": "Bonn",
     "country": "Germany",
     "favLanguage": "python",
-    "nativeLanguage": "German",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "6",
-        "months": "5"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "German",
+    "age": "20-24",
+    "programmingExperienceYears": "6",
+    "programmingExperienceMonths": "5"
+  },
+  {
+    "id": "50",
     "city": "Weligama",
     "country": "Sri Lanka",
     "favLanguage": "Java",
-    "nativeLanguage": "Tamil",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "3"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Tamil",
+    "age": "20-24",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "3"
+  },
+  {
+    "id": "51",
     "city": "Stord",
     "country": "Norway",
     "favLanguage": "Python",
-    "nativeLanguage": "Norwegian",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "1",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "5",
-        "months": "10"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Norwegian",
+    "age": "35-39",
+    "programmingExperienceYears": "5",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "52",
     "city": "Waterloo",
     "country": "United States",
     "favLanguage": "Python",
-    "nativeLanguage": "American",
-    "age": {
-        "under 20": "0",
-        "20-24": "",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "1",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "3",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "American",
+    "age": "35-39",
+    "programmingExperienceYears": "3",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "53",
     "city": "Anuradhapura",
     "country": "Sri Lanka",
     "favLanguage": "Actionscript",
-    "nativeLanguage": "Sinhala",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "9",
-        "months": "2"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Sinhala",
+    "age": "20-24",
+    "programmingExperienceYears": "9",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "54",
     "city": "Ghaziabad",
     "country": "India",
     "favLanguage": "python",
-    "nativeLanguage": "hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "9",
-        "months": "0"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "hindi",
+    "age": "under 20",
+    "programmingExperienceYears": "9",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "55",
     "city": "Parnaíba",
     "country": "Brazil",
     "favLanguage": "Python",
-    "nativeLanguage": "Portuguese",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "0",
-        "months": "6"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Portuguese",
+    "age": "25-29",
+    "programmingExperienceYears": "0",
+    "programmingExperienceMonths": "6"
+  },
+  {
+    "id": "56",
     "city": "Vancouver",
     "country": "Canada",
     "favLanguage": "Python",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "6",
-        "months": "2"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "English",
+    "age": "25-29",
+    "programmingExperienceYears": "6",
+    "programmingExperienceMonths": "2"
+  },
+  {
+    "id": "57",
     "city": "Colombo",
     "country": "Sri Lanka",
     "favLanguage": "javascript",
-    "nativeLanguage": "Sinhala",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "10"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Sinhala",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "58",
     "city": "Kochi ",
     "country": "India",
     "favLanguage": "swift",
+    "gender": "m",
     "nativeLanguage": "hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "0"
-    }
-}, {
-    "gender": "f",
+    "age": "under 20",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "0"
+  },
+  {
+    "id": "59",
     "city": "Edwardsville",
     "country": "USA",
     "favLanguage": "python",
-    "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "1",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "10"
-    }
-}, {
     "gender": "f",
+    "nativeLanguage": "English",
+    "age": "20-24",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "60",
     "city": "Shinjuku",
     "country": "Japan",
     "favLanguage": "Python",
+    "gender": "f",
     "nativeLanguage": "English",
-    "age": {
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "2",
-        "months": "1"
-    }
-}, {
-    "gender": "m",
+    "age": "25-29",
+    "programmingExperienceYears": "2",
+    "programmingExperienceMonths": "1"
+  },
+  {
+    "id": "61",
     "city": "Saint Petersburg",
     "country": "Russian Federation",
     "favLanguage": "Python",
-    "nativeLanguage": "Russian",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "4",
-        "months": "8"
-    }
-}, {
     "gender": "m",
+    "nativeLanguage": "Russian",
+    "age": "25-29",
+    "programmingExperienceYears": "4",
+    "programmingExperienceMonths": "8"
+  },
+  {
+    "id": "62",
     "city": "Mumbai",
     "country": "India",
     "favLanguage": "Python",
+    "gender": "m",
     "nativeLanguage": "Hindi",
-    "age": {
-        "under 20": "1",
-        "20-24": "0",
-        "25-29": "0",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "0",
-        "months": "10"
-    }
-}, {
-    "gender": "f",
+    "age": "under 20",
+    "programmingExperienceYears": "0",
+    "programmingExperienceMonths": "10"
+  },
+  {
+    "id": "63",
     "city": "Irvine",
     "country": "United States of America",
     "favLanguage": "Python",
+    "gender": "f",
     "nativeLanguage": "English",
-    "age": {
-        "under 20": "0",
-        "20-24": "0",
-        "25-29": "1",
-        "30-34": "0",
-        "35-39": "0",
-        "40-44": "0",
-        "45-49": "0",
-        "50 and over": "0"
-    },
-    "programmingExperience": {
-        "years": "0",
-        "months": "7"
-    }
-}]
+    "age": "25-29",
+    "programmingExperienceYears": "0",
+    "programmingExperienceMonths": "7"
+  }
+]
