@@ -1,6 +1,6 @@
 # Favourite programming languages: a hacktober project
 
-In honour of [Hacktoberfest](https://hacktoberfest.digitalocean.com/), this is a collaborative project that explores the Github community's **favourite programming languages** from around the world.
+This is a collaborative project that explores the Github community's **favourite programming languages** from around the world.
 
 ### Contribution Guidelines 
 
@@ -32,7 +32,7 @@ To participate, create a **json** file with your first and last name in camelCas
 ```
 Once you have updated your json file, add it to the `data/` directory. 
 
-FYI - **native language** in the template json refers to **spoken language**.
+FYI - *native language* in the template json refers to *spoken language*.
 
 ### Combining all json files
 
@@ -41,6 +41,6 @@ When a new json file is added to `data/`, update `combinedArray.json` by running
 ```
 npm run start
 ```
-This command uses [gulpfile.js] to concatenante all jsons into one combined array. 
+This command uses [gulpfile.js](gulpfile.js) to concatenante all jsons into one combined array. 
 
 
