@@ -1,7 +1,46 @@
 # Favourite programming languages: a hacktober project
 
-In honour of Hacktoberfest, I am doing a collaborative project that looks at everyone's **favourite programming languages** from around the world.
+In honour of [Hacktoberfest](https://hacktoberfest.digitalocean.com/), this is a collaborative project that explores the Github community's **favourite programming languages** from around the world.
 
-To participate, please create a json file with your first and last name in camelCase (e.g., johnSmith.json). Then copy and paste the [template.json](template.json) content into your json and add the appropriate information. You can only add 1 favourite programming language. FYI - *native language* in the template json refers to *spoken language*, sorry about the confusion. Take a look at the example entry [data/jillCates.json](data/jillCates.json) as a guideline.
+### Contribution Guidelines 
 
-Once enough data is collected, I'll share visualizations of the data with you all.
+To participate, create a **json** file with your first and last name in camelCase (e.g., johnSmith.json). Add the following object in your file and update it with your appropriate information:
+
+```
+{
+    "gender": "m",
+    "city": "Vancouver",
+    "country": "Canada",
+    "favLanguage": "Ruby on Rails",
+    "nativeLanguage": "English",
+    "age": {
+        "under 20": "0",
+        "20-24": "0",
+        "25-29": "0",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "1",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "0",
+        "months": "6"
+    }
+}
+
+```
+Once you have updated your json file, add it to the `data/` directory. 
+
+FYI - **native language** in the template json refers to **spoken language**.
+
+### Combining all json files
+
+When a new json file is added to `data/`, update `combinedArray.json` by running:
+
+```
+npm run start
+```
+This command uses [gulpfile.js] to concatenante all jsons into one combined array. 
+
+
