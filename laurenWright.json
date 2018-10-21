@@ -1,0 +1,21 @@
+{
+    "gender": "f",
+    "city": "Louisville",
+    "country": "United States",
+    "favLanguage": "Python",
+    "nativeLanguage": "English",
+    "age": {
+        "under 20": "0",
+        "20-24": "0",
+        "25-29": "1",
+        "30-34": "0",
+        "35-39": "0",
+        "40-44": "0",
+        "45-49": "0",
+        "50 and over": "0"
+    },
+    "programmingExperience": {
+        "years": "1",
+        "months": "0"
+    }
+}
